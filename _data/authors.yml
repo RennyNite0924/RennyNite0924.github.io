@@ -3,3 +3,8 @@ default:
   name:         "Renny Nite"
   picture:      /assets/rennynite.jpg
   facebook:     renny.nite.hye
+rennynite:
+  initial:      rennynite
+  name:         "Renny Nite"
+  picture:      /assets/rennynite.jpg
+  facebook:     renny.nite.hye

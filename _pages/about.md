@@ -1,7 +1,7 @@
 ---
 layout:    about
 permalink: "/about/"
-author:    default
+author:    rennynite
 title:     个人简介
 ---
 笔名夜之谜，CP圈笔名侱_珉夜。
