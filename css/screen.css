@@ -930,7 +930,7 @@ figure p {
   overflow: hidden;
   z-index: 99; }
   .logo-readium .logo {
-    display: none;
+    display: block;
     position: absolute;
     top: 8px;
     left: 8px;

@@ -1,6 +1,7 @@
 ---
 layout:    about
 permalink: "/about/"
+author:    rennynite
 title:     关于夜之谜
 menutitle: 个人简介
 ---

@@ -1,6 +1,9 @@
 default:
   initial:      rennynite
   name:         "Renny Nite"
+rennynite:
+  initial:      rennynite
+  name:         "Renny Nite"
   cover:        /assets/fantasy_tree.jpg
   picture:      /assets/rennynite.jpg
   facebook:     renny.nite.hye
