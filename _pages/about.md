@@ -4,7 +4,7 @@ permalink: "/about/"
 title:     关于夜之谜
 menutitle: 个人简介
 ---
-<p align="center"><img src="/assets/rennynite.jpg" style="width: 414px; height: 404px"></p>
+<p align="center"><img src="/assets/rennynite.jpg" style="max-width: 414px"></p>
 <p align="center"><a href="https://www.facebook.com/renny.nite.hye">Facebook</a></p>
 笔名夜之谜，CP圈笔名侱_珉夜。  
 90后天秤座，马来西亚华裔。  
