@@ -37,7 +37,7 @@ layout: default
     <ul class="category {{category[0] | uri_escape | downcase | slugify}}">
         <h3 id="{{category[0] | uri_escape | downcase | slugify }}">{{category[0] | camelcase }}</h3>
 
-        {% for post in sorted_posts %}
+        {% for post in sorted_posts reversed %}
         {% unless post.draft %}
 
         {% if post.menutitle %}
