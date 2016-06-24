@@ -153,6 +153,7 @@ category: Previews
 
 但是，好景会常在吗？
 
-后续情节请点击购买：  
-1. http://ebook.hyread.com.tw/bookDetail.jsp?id=73732
-2. http://reading.udn.com/v2/bookDesc.do?id=71650
+后续情节请点击购买：
+
+1. <http://ebook.hyread.com.tw/bookDetail.jsp?id=73732>
+2. <http://reading.udn.com/v2/bookDesc.do?id=71650>
