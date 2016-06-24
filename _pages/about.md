@@ -1,9 +1,11 @@
 ---
-layout:    about
+layout:    page
 permalink: "/about/"
 author:    rennynite
-title:     个人简介
+menutitle: 个人简介
+title:     关于夜之谜
 ---
+![Alt text](/assets/rennynite.jpg "夜之谜 Renny")
 笔名夜之谜，CP圈笔名侱_珉夜。
 90后天秤座，马来西亚华裔。
 十三岁开始写作，喜欢书写男女校园纯爱，其次是耽美纯爱，欧偶尔写写亲情或友情。
