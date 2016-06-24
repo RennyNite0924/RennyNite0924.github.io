@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 冤冤相爱何时了 Chapter 14
+title: 冤冤相爱何时了 Chapter 14 （完結篇）
 date: 2014-05-18 23:00:00 +0800
 category: Novels
 ---
