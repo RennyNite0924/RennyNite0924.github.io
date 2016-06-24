@@ -3,6 +3,7 @@ layout:    about
 permalink: "/about/"
 title:     个人简介
 menutitle: 个人简介
+weight:    90
 ---
 笔名夜之谜，CP圈笔名侱_珉夜。
 90后天秤座，马来西亚华裔。
