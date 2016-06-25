@@ -6,7 +6,8 @@ category: Previews
 ---
 <p align="center"><img src="/assets/love_never_go.png" style="max-width: 400px"></p>
 <h2 align="center">试阅内容</h2>
-<h3 align="center">第一章</h3>
+<p align="center">章节导览：<a href="#chapter1">1</a>&nbsp;&nbsp;&nbsp; <a href="#chapter2">2</a>&nbsp;&nbsp;&nbsp; <a href="#chapter3">3</a>&nbsp;&nbsp;&nbsp; <a href="#chapter4">4</a></p>
+<h3 align="center" id="chapter1">第一章</h3>
 
 新晋作家铭远躺在摄影棚的休息室里的懒人椅上闭目养神，昨天他为了赶剧本而熬了整个通宵，彻夜没睡导致他的太阳穴隐隐作痛。
 
@@ -142,7 +143,7 @@ category: Previews
 
 ---
 
-<h3 align="center">第二章</h3>
+<h3 align="center" id="chapter2">第二章</h3>
 
 大约四十年前。
 
@@ -206,7 +207,7 @@ category: Previews
 
 ---
 
-<h3 align="center">第三章</h3>
+<h3 align="center" id="chapter3">第三章</h3>
 
 中五乙班。
 
@@ -274,7 +275,7 @@ category: Previews
 
 ---
 
-<h3 align="center">第四章</h3>
+<h3 align="center" id="chapter4">第四章</h3>
 
 铭远醒来的时候已经是晚上八时正，床头上贴着便条。
 

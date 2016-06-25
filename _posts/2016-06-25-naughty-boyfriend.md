@@ -6,7 +6,8 @@ category: Previews
 ---
 <p align="center"><img src="/assets/naughty_boyfriend.jpg" style="max-width: 400px"></p>
 <h2 align="center">试阅内容</h2>
-<h3 align="center">- 1 -</h3>
+<p align="center">章节导览：<a href="#chapter1">1</a>&nbsp;&nbsp;&nbsp; <a href="#chapter2">2</a></p>
+<h3 align="center" id="chapter1">- 1 -</h3>
 
 “啊！！！”
 
@@ -186,7 +187,7 @@ category: Previews
 
 ---
 
-<h3 align="center">- 2 -</h3>
+<h3 align="center" id="chapter2">- 2 -</h3>
 
 在课室里。
 
