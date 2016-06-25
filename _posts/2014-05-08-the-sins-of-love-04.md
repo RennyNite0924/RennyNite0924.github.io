@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [男女純愛]冤冤相爱何时了 Chapter 04
+title: 【男女纯爱】冤冤相爱何时了 Chapter 04
 date: 2014-05-08 23:00:00 +0800
 category: Novels
 ---
