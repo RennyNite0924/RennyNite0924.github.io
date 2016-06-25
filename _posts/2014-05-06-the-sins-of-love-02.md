@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 冤冤相爱何时了 Chapter 02
+title: [男女純愛]冤冤相爱何时了 Chapter 02
 date: 2014-05-06 23:00:00 +0800
 category: Novels
 ---
