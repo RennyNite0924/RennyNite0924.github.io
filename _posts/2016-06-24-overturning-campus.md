@@ -1,9 +1,12 @@
 ---
 layout: post
-title: 《颠覆校园》男女校园系列小说『试阅内容』
+title: 《颠覆校园》男女校园系列小说
 date: 2016-06-24 22:20:00 +0800
 category: Previews
 ---
+<p align="center"><img src="/assets/overturning_campus.jpg" style="max-width: 600px"></p>
+『试阅内容』
+
 某个风和日丽的早晨，校园里被一阵吵杂声划破了平静。  
 “臭小子，你给我站住！上次的账我还没有跟你算！你不要跑！”  
 “唉，他们又来了……”

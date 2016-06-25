@@ -921,7 +921,7 @@ figure p {
       margin-bottom: 0; }
 
 .logo-readium {
-  position: absolute;
+  position: fixed;
   left: 10px;
   top: 10px;
   width: 48px;
