@@ -4,9 +4,8 @@ title: 《颠覆校园》男女校园系列小说
 date: 2016-06-24 22:20:00 +0800
 category: Previews
 ---
-<p align="center"><img src="/assets/overturning_campus.jpg" style="max-width: 600px"></p>
-『试阅内容』
-
+<p align="center"><img src="/assets/overturning_campus.jpg" style="max-width: 400px"></p>
+<h2 align="center">试阅内容</h2>
 某个风和日丽的早晨，校园里被一阵吵杂声划破了平静。  
 “臭小子，你给我站住！上次的账我还没有跟你算！你不要跑！”  
 “唉，他们又来了……”
@@ -155,6 +154,8 @@ category: Previews
 换课钟声响起，随后走进班的是出了名的母老虎——班主任。在班主任的严厉看管下，终于有一天可以耳根清净，同学们也可以专心上课了。
 
 但是，好景会常在吗？
+
+---
 
 后续情节请点击购买：
 
