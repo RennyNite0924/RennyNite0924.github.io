@@ -4,6 +4,7 @@ title: 【亲情短篇】爱，一直在心里
 date: 2016-06-19 22:13:00 +0800
 category: Short Stories
 ---
+<p align="center"><img src="/assets/love_in_heart_always.jpg" style="max-width: 550px"></p>
 “妈～我回来了～” 鹛桂随意把书包放在客厅沙发上，飞奔进厨房里从后环抱正在弄午餐的妈妈。
 
 “鹛桂回来啦？妈妈再炒个酸辣鸡肉片就可以吃了。” 洪妈妈腾出一只手摸摸女儿的头，却见女儿忽然变脸。
