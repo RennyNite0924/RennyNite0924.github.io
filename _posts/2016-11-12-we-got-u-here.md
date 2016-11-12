@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 【陈伟霆&李易峰+衍生CP】我们这里还有……你们
-date: 2016-11-12 12:48:00 +1200
+date: 2016-11-12 12:48:00 +0800
 category: Short Stories
 ---
+<p align="center"><img src="/assets/we_got_u_here.jpg" style="max-width: 550px"></p>
 在娱乐圈里打滚多年，崔艾伦终于熬出头了。
 
 今晚是他的首场演唱会，同台嘉宾是不久前与他一起公开出柜的秦朗。
