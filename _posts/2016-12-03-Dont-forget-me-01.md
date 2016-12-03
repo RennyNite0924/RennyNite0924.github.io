@@ -1,10 +1,9 @@
 ---
 layout: post
-title: 【峰霆峰】勿忘我1
+title: 【峰霆峰】勿忘我 1
 date: 2016-12-03 4:15:00 +0800
 category: Novels
 ---
-<p align="center"><img src="/assets/we_got_u_here.jpg" style="max-width: 550px"></p>
 
 某月某日。
 
