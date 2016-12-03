@@ -116,7 +116,7 @@ category: Novels
 
 “活色生香片场，演员大合照的那一天，你躺在我的怀里，两个人毫无顾忌地搂搂抱抱，闪瞎了其他人的眼睛。”
 
-<p align="center"><img src="/assets/11.jpg" style="max-width: 550px"></p>
+<p align="center"><img src="/assets/dfm11.jpg" style="max-width: 550px"></p>
 
 “见面会上，红色绸带在我们手里缠了一圈又一圈，一圈又一圈。我为了和你手缠着久一点，硬是胡乱起哄，要求粉丝喊主持人的名字。即使不对劲的举动会惹来猜测，我也不理。”
 
