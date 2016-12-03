@@ -174,3 +174,5 @@ category: Novels
 “易峰大哥！！！”
 
 两道惊呼同时传入耳里，但是易峰已经没有余力回应……
+
+[下一章 →](/novels/2016/12/03/Dont-forget-me-06.html)
