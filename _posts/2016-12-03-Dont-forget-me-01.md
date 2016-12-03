@@ -260,3 +260,5 @@ category: Novels
 “威廉，带我回家好吗？威廉……”
 
 冰冷的一滴泪，落在白骨上，安静无声。
+
+[下一章 →](/novels/2016/12/03/Dont-forget-me-02.html)
