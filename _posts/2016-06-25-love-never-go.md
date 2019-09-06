@@ -369,5 +369,4 @@ category: Previews
 
 1. <http://www.24reader.com/266282>
 2. <http://reading.udn.com/v2/bookDesc.do?id=94698>
-3. <http://www.pubu.com.tw/ebook/%E6%84%9B%E5%B7%B2%E9%80%9D-71359>
-4. <http://www.taaze.tw/sing.html?pid=14100017879>
+3. <http://www.taaze.tw/sing.html?pid=14100017879>

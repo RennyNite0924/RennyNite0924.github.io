@@ -170,6 +170,4 @@ category: Previews
 后续情节请点击购买电子书：
 
 1. <http://reading.udn.com/v2/bookDesc.do?id=84405>
-2. <https://store.readmoo.com/book/210054208000101>
-3. <https://ebook.hyread.com.tw/bookDetail.jsp?id=81419>
-4. <http://www.pubu.com.tw/ebook/%E6%84%9B-%E7%B5%95%E8%99%95%E9%80%A2%E7%94%9F-64322>
+2. <https://ebook.hyread.com.tw/bookDetail.jsp?id=81419>

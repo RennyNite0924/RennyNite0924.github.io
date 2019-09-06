@@ -362,4 +362,4 @@ Sean勾住许文诺的脖子，动作俐落地站稳，带著许文诺向台下�
 
 后续情节请点击镜文学网站：
 
-1. <https://www.mirrorfiction.com/zh-Hant/book/1228>
+（目前不可用）
