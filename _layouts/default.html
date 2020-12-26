@@ -17,7 +17,7 @@
 const targetEncodingLS="targetEncoding", translateButtonTextObject=document.getElementById("translateLinkText");
 
 (async ()=>{
-    const HTMLConvertHandler=OpenCC.HTMLConverter(await OpenCC.Converter("cn", "twp"), document.documentElement, "zh-Hans", "zh-Hant");
+    const HTMLConvertHandler=OpenCC.HTMLConverter(await OpenCC.Converter("cn", "tw"), document.documentElement, "zh-Hans", "zh-Hant");
     if(+localStorage.getItem(targetEncodingLS)) {
         translateButtonTextObject.innerHTML="繁";
         HTMLConvertHandler.convert();
