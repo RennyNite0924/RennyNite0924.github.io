@@ -26,7 +26,7 @@ category: Novels
 
 今天实在是太早起了，疲倦感袭来，微博刷着刷着，易峰不知觉地睡着了。
 
----
+----
 
 房门打开，伟霆没有开灯，黑暗中没有发现床上有人。凭着记忆摸黑往浴室走去，按下了浴室的灯挚开关便走了进去。
 
@@ -98,7 +98,7 @@ category: Novels
 
 往事排山倒海般涌进脑子里，伟霆静静聆听易峰一一诉说，不发一语。
 
----
+----
 
 “百里屠苏被污蔑杀害肇临，逃至苏苏谷的时候被陵端追上，陵越及时赶到救驾。陵越弄昏屠苏，屠苏被拥在陵越怀里的那一幕，没有人知道我有多渴望这个拥抱永远都不要松开。”
 
@@ -158,7 +158,7 @@ category: Novels
 
 伟霆再也压抑不了，失声痛哭……
 
----
+----
 
 “卡！good take！”
 
@@ -192,7 +192,7 @@ category: Novels
 
 第四天，也就是今天，电影情节已拍摄到两人决裂的情景。
 
----
+----
 
 导演走近两人，“伟霆，易峰，你们刚才的表现很出色，我看了都觉得很心痛。”
 
@@ -202,7 +202,7 @@ category: Novels
 
 一年前，同样的决裂情景发生在他们身上，只是时隔不到一个月，两人终究无法渡过分离的煎熬，多次磨合之后还是复合了。
 
----
+----
 
 “现在也不早了，你们回去休息吧！明天下午再回来拍摄最后一场。”导演拍拍伟霆的肩膀，交代工作人员善后，自个儿先走了。
 
@@ -222,128 +222,128 @@ category: Novels
 
 “三。”
 
-“your skin～ your skin～” 
+“your skin～ your skin～”
 
 车里的两人会心一笑，他们都不约而同选唱了伟霆在2014年北京生日演唱会的版本。
 
 Look at the stars,
-抬頭仰望繁星點點
+抬头仰望繁星点点
 
 Look how they shine for you,
-它們為你散發出迷人光芒
+它们为你散发出迷人光芒
 
 And everything you do,
 你所作的每件事
 
 Yeah, they were all yellow.
-都閃耀著一種金黃色
+都闪耀着一种金黄色
 
 I came along,
-我一路獨自走來
+我一路独自走来
 
 I wrote a song for you,
-為你做了一首情歌
+为你做了一首情歌
 
 And all also the things you do,
-因為你所作的每件事
+因为你所作的每件事
 
 And it was called "Yellow."
-都有著金黃色的回憶
+都有着金黄色的回忆
 
 So then I took my turn,
-我恣意的漫步遊走
+我恣意的漫步游走
 
 Oh what a thing to have done,
-是什麼樣的事情等待著實現呢？
+是什么样的事情等待着实现呢？
 
 And it was all "Yellow."
-那是種金黃色的美好體驗
+那是种金黄色的美好体验
 
 Your skin
-你的肌膚
+你的肌肤
 
 Oh yeah, your skin and bones,
-你的每一吋肌膚
+你的每一吋肌肤
 
 Turn into something beautiful,
-都幻化為美麗的生活點滴
+都幻化为美丽的生活点滴
 
 You know, you know I love you so,
-你明白我對你的愛有多深
+你明白我对你的爱有多深
 
 You know I love you so.
-相信我給你的付出有多真
+相信我给你的付出有多真
 
 I swam across,
-我為你穿越海洋
+我为你穿越海洋
 
 I jumped across for you,
-為你跨越山谷
+为你跨越山谷
 
 Oh what a thing to do.
-讓我瘋狂付出的原因為何？
+让我疯狂付出的原因为何？
 
 Cos you were all "Yellow,"
-只因為你在我的心中永遠迷人脫俗
+只因为你在我的心中永远迷人脱俗
 
 I drew a line,
-我畫了一條線
+我画了一条线
 
 I drew a line for you,
-為你畫出我倆唯一的界線 等著你跨越
+为你画出我俩唯一的界线 等着你跨越
 
 Oh what a thing to do,
-使我想像幸福的動機為何？
+使我想像幸福的动机为何？
 
 And it was all "Yellow."
-只為了得到美麗如你的重視
+只为了得到美丽如你的重视
 
 Your skin,
-你的肌膚
+你的肌肤
 
 Oh yeah your skin and bones,
-你的每一吋肌膚
+你的每一吋肌肤
 
 Turn into something beautiful,
-都幻化為美麗的生活點滴
+都幻化为美丽的生活点滴
 
 And you know for you,
-你知道我願意為你
+你知道我愿意为你
 
 I'd bleed myself dry for you,
-我願意為了你而犧牲自己
+我愿意为了你而牺牲自己
 
 I'd bleed myself dry.
-縱使我的生命已不再留有任何痕跡
+纵使我的生命已不再留有任何痕迹
 
 It's true, look how they shine for you,
-我對你的表白是如此真實，星星的確為你散發光芒
+我对你的表白是如此真实，星星的确为你散发光芒
 
 Look how they shine for you,
-看著它們為你散發的迷人光芒
+看着它们为你散发的迷人光芒
 
 Look how they shine for,
-看著它們如何為你散發光芒
+看着它们如何为你散发光芒
 
 Look how they shine for you,
-看著它們為你散發著迷人光芒
+看着它们为你散发着迷人光芒
 
 Look how they shine for you,
-看著它們為你散發著迷人光芒
+看着它们为你散发着迷人光芒
 
 Look how they shine.
-看著它們如何散發出迷人光芒
+看着它们如何散发出迷人光芒
 
 Look at the stars,
-抬頭仰望繁星點點
+抬头仰望繁星点点
 
 Look how they shine for you,
-看著它們為你散發的迷人光芒
+看着它们为你散发的迷人光芒
 
 And all the things that you do.
-就在你的舉手投足之間
+就在你的举手投足之间
 
----
+----
 
 这一次，他们唱完了整首歌。
 
