@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【真男女校园·伪同性恋小说】爱，绝处逢生 Chapter 07
+title: 【真男女校园•伪同性恋小说】爱，绝处逢生 Chapter 07
 date: 2016-06-25 14:22:18 +0800
 category: Novels
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【真男女校园·伪同性恋小说】爱，绝处逢生 Chapter 03
+title: 【真男女校园•伪同性恋小说】爱，绝处逢生 Chapter 03
 date: 2016-06-25 14:21:26 +0800
 category: Novels
 ---

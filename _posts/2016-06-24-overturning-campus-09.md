@@ -102,13 +102,31 @@ category: Novels
 
 健星等人坐在同一个长桌一块儿吃午餐。
 
-	胜安	健星	雪樱
+<style>
+div#overturning-campus-09-seats {
+	border-collapse: collapse;
+	display: table;
+	margin: 0 auto;
+	max-width: 650px;
+	text-align: center;
+	width: 90%;
+}
+div#overturning-campus-09-seats > div {
+	display: table-row;
+}
+div#overturning-campus-09-seats > div > div {
+	border: 1px solid #3A4145;
+	display: table-cell;
+}
+</style>
+<div id="overturning-campus-09-seats">
+<div><div></div><div>胜安</div><div>健星</div><div>雪樱</div><div></div></div>
+<div><div>思婷</div><div>炫彰</div><div>俊翔</div><div>振伟</div><div>晓彤</div></div>
+</div>
 
-	思婷	炫彰	俊翔	振伟	晓彤
+“你的娘惹糕看起来很好吃诶，借吃一块。”健星拿走胜安的便当里其中一块糕点。
 
-	“你的娘惹糕看起来很好吃诶，借吃一块。”健星拿走胜安的便当里其中一块糕点。
-
-	“借了要还的喔。”胜安很是认真，健星嘴里嚼着糕点的动作停住了。
+“借了要还的喔。”胜安很是认真，健星嘴里嚼着糕点的动作停住了。
 
 “哈哈，开玩笑啦，吃吧！”胜安拍拍健星的背脊。
 

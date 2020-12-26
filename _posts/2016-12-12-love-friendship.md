@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【友爱·情爱】男女之间真的存在纯友谊吗？
+title: 【友爱•情爱】男女之间真的存在纯友谊吗？
 date: 2016-12-12 17:15:00 +0800
 category: Short Stories
 ---

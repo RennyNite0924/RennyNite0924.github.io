@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【张启山视角】牵挂·羁绊
+title: 【张启山视角】牵挂•羁绊
 date: 2016-07-08 23:21:00 +0800
 category: Short Stories
 ---
