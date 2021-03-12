@@ -928,7 +928,8 @@ figure p {
   height: 48px;
   background-color: #000;
   overflow: hidden;
-  z-index: 99; }
+  z-index: 99;
+  user-select: none; }
 #translateLink:hover {
   cursor: pointer; }
   #translateLink #translateLinkText {
