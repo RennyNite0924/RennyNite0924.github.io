@@ -11,26 +11,27 @@
     </div>
 </body>
 
-<script src="https://cdn.jsdelivr.net/npm/opencc-js"></script>
+<script src="https://cdn.jsdelivr.net/npm/opencc-js/data.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/opencc-js/data.cn2t.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/opencc-js/data.t2cn.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/opencc-js/bundle-browser.min.js"></script>
 <script>
 const targetEncodingLS="targetEncoding", translateButtonTextObject=document.getElementById("translateLinkText");
 
-(async ()=>{
-    const HTMLConvertHandler=OpenCC.HTMLConverter(await OpenCC.Converter("cn", "tw"), document.documentElement, "zh-Hans", "zh-Hant");
+const HTMLConvertHandler=OpenCC.HTMLConverter(OpenCC.Converter({from: "cn", to: "tw"}), document.documentElement, "zh-Hans", "zh-Hant");
+if(+localStorage.getItem(targetEncodingLS)) {
+    translateButtonTextObject.innerHTML="繁";
+    HTMLConvertHandler.convert();
+}
+document.getElementById("translateLink").onclick=()=>{
     if(+localStorage.getItem(targetEncodingLS)) {
+        translateButtonTextObject.innerHTML="简";
+        HTMLConvertHandler.restore();
+    } else {
         translateButtonTextObject.innerHTML="繁";
         HTMLConvertHandler.convert();
     }
-    document.getElementById("translateLink").onclick=()=>{
-        if(+localStorage.getItem(targetEncodingLS)) {
-            translateButtonTextObject.innerHTML="简";
-            HTMLConvertHandler.restore();
-        } else {
-            translateButtonTextObject.innerHTML="繁";
-            HTMLConvertHandler.convert();
-        }
-        localStorage.setItem(targetEncodingLS, +localStorage.getItem(targetEncodingLS)?0:1);
-    };
-})();
+    localStorage.setItem(targetEncodingLS, +localStorage.getItem(targetEncodingLS)?0:1);
+};
 </script>
 </html>
