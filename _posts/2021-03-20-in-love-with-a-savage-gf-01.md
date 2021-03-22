@@ -78,7 +78,7 @@ div#in-love-with-a-savage-gf-01-seats > div > div.tctb {
 	<div>
 		<div class="b"><abbr title="重义气、重感情、疑心重。">岳焌慷</abbr></div>
 		<div class="b"><abbr title="Miko，占有欲强、疑心重。">蓝泳菁</abbr></div>
-		<div class="b"><abbr title="Josie，优秀生、号称冰美人。">颜/严？瑾妤</abbr></div>
+		<div class="b"><abbr title="Josie，优秀生、号称冰美人。">颜瑾妤</abbr></div>
 		<div></div>
 		<div class="b"><abbr title="表面上加入混混实际上学校卧底、号称摄云小子、转校生。">陈伟杰</abbr></div>
 		<div class="b"><abbr title="Vincent，班长、乐于助人、幽默、独立。">范勇森</abbr></div>
