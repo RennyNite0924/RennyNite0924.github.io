@@ -4,13 +4,14 @@ title: 【5S系列】萝卜爱上眼镜 Chapter 01
 date: 2021-03-20 16:29:20 +0800
 category: Novels
 ---
-<p align="center">【众人在5 Science班级里的座位展示图】<br><span style="font-size: smaller">P/S: 使用电脑的读者可以将鼠标指标指向姓名（使用触屏设备的读者则是可以在姓名上点击），查看该人物角色简介。</span></p>
+<p align="center">【众人在5 Science班级里的座位展示图】<br><span style="font-size: smaller">P/S: 使用电脑的读者可以将鼠标指标指向姓名（使用触屏机的读者则是可以在姓名上点击），查看该人物角色简介。</span></p>
 <style>
 div#in-love-with-a-savage-gf-01-seats {
 	border-collapse: collapse;
 	display: table;
 	margin: 0 auto;
 	max-width: 650px;
+	table-layout: fixed;
 	text-align: center;
 	width: 90%;
 }
@@ -22,13 +23,18 @@ div#in-love-with-a-savage-gf-01-seats > div.s {
 }
 div#in-love-with-a-savage-gf-01-seats > div > div {
 	display: table-cell;
-	width: 14.2857%;
 }
-div#in-love-with-a-savage-gf-01-seats > div > div.b {
+div#in-love-with-a-savage-gf-01-seats > div > div.t,
+div#in-love-with-a-savage-gf-01-seats > div > div.u {
 	border: 1px solid #3A4145;
 }
+div#in-love-with-a-savage-gf-01-seats > div > div.t {
+	font-weight: bolder;
+}
 div#in-love-with-a-savage-gf-01-seats > div > div.u {
+	cursor: help;
 	position: relative;
+	user-select: none;
 }
 div#in-love-with-a-savage-gf-01-seats > div > div.u:focus,
 div#in-love-with-a-savage-gf-01-seats > div > div.u:hover,
@@ -76,9 +82,6 @@ div#in-love-with-a-savage-gf-01-seats > div > div.u > span.i.r {
 div#in-love-with-a-savage-gf-01-seats > div > div.u > span.i.r::after {
 	right: 4%;
 }
-div#in-love-with-a-savage-gf-01-seats > div > div.t {
-	font-weight: bolder;
-}
 @media (orientation: portrait) {
 	div#in-love-with-a-savage-gf-01-seats > div > div {
 		font-size: small;
@@ -101,50 +104,50 @@ div#in-love-with-a-savage-gf-01-seats > div > div.t {
 		<div></div>
 		<div></div>
 		<div></div>
-		<div class="b t">教桌</div>
+		<div class="t">教桌</div>
 		<div></div>
 		<div></div>
 		<div></div>
 	</div>
 	<div class="s"></div>
 	<div>
-		<div class="b u">曾翊励<span class="i l">Eric，巡察员团长、不擅长说华语的香蕉人。</span></div>
-		<div class="b u">柳镇垣<span class="i l">Zeal，世界首富的二公子、忠直、自卑。</span></div>
+		<div class="u">曾翊励<span class="i l">Eric，巡察员团长、不擅长说华语的香蕉人。</span></div>
+		<div class="u">柳镇垣<span class="i l">Zeal，世界首富的二公子、忠直、自卑。</span></div>
 		<div></div>
 		<div></div>
 		<div></div>
-		<div class="b u">姚炜铨<span class="i r">Kean，董事长的长子、文茨的哥哥、不服输。</span></div>
-		<div class="b u">戴文竭<span class="i r">普通学生、不擅长说华语的香蕉人、爱恶作剧。</span></div>
+		<div class="u">姚炜铨<span class="i r">Kean，董事长的长子、文茨的哥哥、不服输。</span></div>
+		<div class="u">戴文竭<span class="i r">普通学生、不擅长说华语的香蕉人、爱恶作剧。</span></div>
 	</div>
 	<div class="s"></div>
 	<div>
-		<div class="b u">施琬忻<span class="i l">Beatrice，副班长、大喇喇。</span></div>
-		<div class="b u">洪瑷心<span class="i l">Train，普通学生、野蛮泼辣、爱打抱不平。</span></div>
+		<div class="u">施琬忻<span class="i l">Beatrice，副班长、大喇喇。</span></div>
+		<div class="u">洪瑷心<span class="i l">Train，普通学生、野蛮泼辣、爱打抱不平。</span></div>
 		<div></div>
 		<div></div>
 		<div></div>
-		<div class="b u">姚文茨<span class="i r">Max，董事长的次女、炜铨的妹妹。</span></div>
-		<div class="b u">徐沛雯<span class="i r">Tracy，班花、口是心非。</span></div>
+		<div class="u">姚文茨<span class="i r">Max，董事长的次女、炜铨的妹妹。</span></div>
+		<div class="u">徐沛雯<span class="i r">Tracy，班花、口是心非。</span></div>
 	</div>
 	<div class="s"></div>
 	<div>
-		<div class="b u">梁咏晖<span class="i l">校草、霈君同父异母的哥、不擅长表达情感。</span></div>
-		<div class="b u">程荟倪<span class="i l">Finny，搞气氛高手、思想开放。</span></div>
-		<div class="b u">梁霈君<span class="i l">Candy，咏晖同父异母的妹、柔中带刚。</span></div>
+		<div class="u">梁咏晖<span class="i l">校草、霈君同父异母的哥、不擅长表达情感。</span></div>
+		<div class="u">程荟倪<span class="i l">Finny，搞气氛高手、思想开放。</span></div>
+		<div class="u">梁霈君<span class="i l">Candy，咏晖同父异母的妹、柔中带刚。</span></div>
 		<div></div>
-		<div class="b u">蒋珉衍<span class="i r">Prince，厉风帮少爷、号称旋风少爷、口硬心软。</span></div>
-		<div class="b u">萧仪靖<span class="i r">Renny，优柔寡断、爱傻笑来掩饰尴尬。</span></div>
-		<div class="b u">宋佩羚<span class="i r">Kay，图书馆管理员、活泼好动。</span></div>
+		<div class="u">蒋珉衍<span class="i r">Prince，厉风帮少爷、号称旋风少爷、口硬心软。</span></div>
+		<div class="u">萧仪靖<span class="i r">Renny，优柔寡断、爱傻笑来掩饰尴尬。</span></div>
+		<div class="u">宋佩羚<span class="i r">Kay，图书馆管理员、活泼好动。</span></div>
 	</div>
 	<div class="s"></div>
 	<div>
-		<div class="b u">岳焌慷<span class="i l">重义气、重感情、疑心重。</span></div>
-		<div class="b u">蓝泳菁<span class="i l">Miko，占有欲强、疑心重。</span></div>
-		<div class="b u">颜瑾妤<span class="i l">Josie，优秀生、号称冰美人。</span></div>
+		<div class="u">岳焌慷<span class="i l">重义气、重感情、疑心重。</span></div>
+		<div class="u">蓝泳菁<span class="i l">Miko，占有欲强、疑心重。</span></div>
+		<div class="u">颜瑾妤<span class="i l">Josie，优秀生、号称冰美人。</span></div>
 		<div></div>
-		<div class="b u">陈伟杰<span class="i r">表面上加入混混实际上学校卧底、号称摄云小子、转校生。</span></div>
-		<div class="b u">范勇森<span class="i r">Vincent，班长、乐于助人、幽默、独立。</span></div>
-		<div class="b u">薛佳曜<span class="i r">Boyven，图书馆管理员、天生褐发、仪靖的干哥。</span></div>
+		<div class="u">陈伟杰<span class="i r">表面上加入混混实际上学校卧底、号称摄云小子、转校生。</span></div>
+		<div class="u">范勇森<span class="i r">Vincent，班长、乐于助人、幽默、独立。</span></div>
+		<div class="u">薛佳曜<span class="i r">Boyven，图书馆管理员、天生褐发、仪靖的干哥。</span></div>
 	</div>
 </div>
 
@@ -236,7 +239,7 @@ div#in-love-with-a-savage-gf-01-seats > div > div.t {
 
 “拜托你去厕所照照镜子。做人要懂得谦虚一点，不要以为每个人都会喜欢你，花花大少。”
 
-“ok，fine。Whatever，我可以知道你的名字吗？”
+“ok, fine. Whatever，我可以知道你的名字吗？”
 
 瑷心不再与炜铨搭话，埋头温习；瑷心的同桌琬忻却八卦搭嘴，“她叫瑷心。”
 

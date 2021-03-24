@@ -110,7 +110,7 @@ category: Novels
 
 见珉衍拉开包厢的门，琬忻示意瑷心先走进去，自己则跟在后面。
 
-“祝你生日快乐，祝你生日快乐，祝你生日快乐，祝你永远快乐～happy birthday to you, happy birthday to you, happy birthday to Wei Kean, happy birthday to you～”
+“祝你生日快乐，祝你生日快乐，祝你生日快乐，祝你永远快乐～happy birthday to you, happy birthday to you, happy birthday to Wei Kean, happy birthday to you\~”
 
 ----
 
