@@ -1,7 +1,7 @@
 ---
-layout:    page
+layout: page
 permalink: "/about/"
-title:     关于夜之谜
+title: 关于夜之谜
 menutitle: 个人简介
 ---
 笔名夜之谜，曾用笔名有好几个但不记得了，未来或许还会改笔名。<br>

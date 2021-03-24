@@ -1,7 +1,6 @@
 ---
 layout: null
 ---
-
 {% if page.cover %}
 {% assign cover = page.cover %}
 {% elsif site.cover %}
@@ -12,15 +11,15 @@ layout: null
 <html>
 {% include head.html %}
 <body class="error-template" style="background-image: url({{ cover | prepend: site.github.url | prepend: site.baseurl}})">
-    <div class="site-wrapper">
-        <div class="error-page">
-            <div class="hgroup">
-                <h1>不好意思，发生了一些问题！</h1>
-                <h2>HTML 404 错误</h2>
-            </div>
-                <p>基于某些原因，你要求的网页在服务器上不可用。</p>
-                <h4><a href="javascript:history.go(-1)">回到上一页</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ site.github.url | prepend: site.baseurl }}/">前往首页</a></h4>
-        </div>
-    </div>
+	<div class="site-wrapper">
+		<div class="error-page">
+			<div class="hgroup">
+				<h1>不好意思，发生了一些问题！</h1>
+				<h2>HTML 404 错误</h2>
+			</div>
+			<p>基于某些原因，你要求的网页在服务器上不可用。</p>
+			<h4><a href="javascript:history.go(-1)">回到上一页</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ site.github.url | prepend: site.baseurl }}/">前往首页</a></h4>
+		</div>
+	</div>
 </body>
 </html>

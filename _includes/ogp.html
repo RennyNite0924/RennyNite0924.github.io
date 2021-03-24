@@ -3,7 +3,7 @@
 	<meta property="og:title" content="{{ page.title | escape }}" />
 	<meta property="og:type" content="article" />
 {% else %}
-    <meta property="og:title" content="{{ site.title | escape }}" />
+	<meta property="og:title" content="{{ site.title | escape }}" />
 	<meta property="og:type" content="website" />
 {% endif %}
 
@@ -23,11 +23,11 @@
 <meta property="og:url" content="{{ page_url }}" />
 
 
-    {% if site.data.authors and site.data.authors[page.author] %}
-    {% assign author = site.data.authors.[page.author] %}
-    {% elsif site.data.authors %}
-    {% assign author = site.data.authors['default'] %}
-    {% endif %}
+	{% if site.data.authors and site.data.authors[page.author] %}
+	{% assign author = site.data.authors.[page.author] %}
+	{% elsif site.data.authors %}
+	{% assign author = site.data.authors['default'] %}
+	{% endif %}
 	<meta property="article:author" content="{{ author.website }}" />
 	<link rel="author" href="{{ author.website }}" />
 

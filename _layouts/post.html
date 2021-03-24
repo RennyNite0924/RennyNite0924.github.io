@@ -3,30 +3,24 @@ layout: default
 ---
 
 <main class="content" role="main">
-    <article class="post single-post" itemscope itemtype="http://schema.org/BlogPosting">
+	<article class="post single-post" itemscope itemtype="http://schema.org/BlogPosting">
 
-        <header class="post-header short-diver">
-            <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-            <section class="post-meta">
-                <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
-                <!--
-                on
-                {% for tag in page.tags limit:5 %}
-                <span>{{ tag }}</span>
-                {% endfor %}
-                -->
-            </section>
-        </header>
+		<header class="post-header short-diver">
+			<h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+			<section class="post-meta">
+				<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
+			</section>
+		</header>
 
-        <section class="post-content short-diver" itemprop="articleBody">
-            {{content}}
-        </section>
+		<section class="post-content short-diver" itemprop="articleBody">
+			{{content}}
+		</section>
 
-        <footer class="post-footer">
-            {% include authorinfo.html param=page.author %}
-        </footer>
+		<footer class="post-footer">
+			{% include authorinfo.html param=page.author %}
+		</footer>
 
-    </article>
+	</article>
 </main>
 
 {% include photoswipe.html %}

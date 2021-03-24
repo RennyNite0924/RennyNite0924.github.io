@@ -4,7 +4,7 @@ title: 【5S系列】萝卜爱上眼镜 Chapter 01
 date: 2021-03-20 16:29:20 +0800
 category: Novels
 ---
-<p align="center">【众人在5 Science班级里的座位展示图】<br><span style="font-size: smaller">P/S: 使用电脑的读者可以将鼠标指标指向姓名，查看该人物角色简介。</span></p>
+<p align="center">【众人在5 Science班级里的座位展示图】<br><span style="font-size: smaller">P/S: 使用电脑的读者可以将鼠标指标指向姓名（使用触屏设备的读者则是可以在姓名上点击），查看该人物角色简介。</span></p>
 <style>
 div#in-love-with-a-savage-gf-01-seats {
 	border-collapse: collapse;
@@ -27,11 +27,73 @@ div#in-love-with-a-savage-gf-01-seats > div > div {
 div#in-love-with-a-savage-gf-01-seats > div > div.b {
 	border: 1px solid #3A4145;
 }
-div#in-love-with-a-savage-gf-01-seats > div > div.b > abbr[title] {
-	text-decoration: none;
+div#in-love-with-a-savage-gf-01-seats > div > div.u {
+	position: relative;
 }
-div#in-love-with-a-savage-gf-01-seats > div > div.tctb {
+div#in-love-with-a-savage-gf-01-seats > div > div.u:focus,
+div#in-love-with-a-savage-gf-01-seats > div > div.u:hover,
+div#in-love-with-a-savage-gf-01-seats > div > div.u > span.i {
+	background: #0c0c0c;
+	color: #cccccc;
+}
+div#in-love-with-a-savage-gf-01-seats > div > div.u > span.i {
+	border-radius: 4px;
+	font-size: smaller;
+	opacity: 0;
+	padding: 0 8px;
+	position: absolute;
+	text-align: left;
+	transition: 500ms;
+	top: 123%;
+	visibility: hidden;
+	width: max-content;
+	z-index: 1;
+}
+div#in-love-with-a-savage-gf-01-seats > div > div.u:focus > span.i,
+div#in-love-with-a-savage-gf-01-seats > div > div.u:hover > span.i {
+	opacity: 0.8;
+	visibility: visible;
+}
+div#in-love-with-a-savage-gf-01-seats > div > div.u > span.i::after {
+	border-color: transparent transparent #0c0c0c transparent;
+	border-style: solid;
+	border-width: 6px;
+	bottom: 100%;
+	content: "";
+	position: absolute;
+}
+div#in-love-with-a-savage-gf-01-seats > div > div.u > span.i.l {
+	left: 50%;
+	margin-left: -50%;
+}
+div#in-love-with-a-savage-gf-01-seats > div > div.u > span.i.l::after {
+	left: 4%;
+}
+div#in-love-with-a-savage-gf-01-seats > div > div.u > span.i.r {
+	right: 50%;
+	margin-right: -50%;
+}
+div#in-love-with-a-savage-gf-01-seats > div > div.u > span.i.r::after {
+	right: 4%;
+}
+div#in-love-with-a-savage-gf-01-seats > div > div.t {
 	font-weight: bolder;
+}
+@media (orientation: portrait) {
+	div#in-love-with-a-savage-gf-01-seats > div > div {
+		font-size: small;
+	}
+	div#in-love-with-a-savage-gf-01-seats > div > div.u > span.i {
+		font-size: smaller;
+		line-height: 1.5;
+		max-width: 50vw;
+		padding: 4px 8px;
+		text-align: left;
+	}
+	div#in-love-with-a-savage-gf-01-seats > div > div.u:focus > span.i,
+	div#in-love-with-a-savage-gf-01-seats > div > div.u:hover > span.i {
+		opacity: 0.9;
+	}
 }
 </style>
 <div id="in-love-with-a-savage-gf-01-seats">
@@ -39,50 +101,50 @@ div#in-love-with-a-savage-gf-01-seats > div > div.tctb {
 		<div></div>
 		<div></div>
 		<div></div>
-		<div class="b tctb">教桌</div>
+		<div class="b t">教桌</div>
 		<div></div>
 		<div></div>
 		<div></div>
 	</div>
 	<div class="s"></div>
 	<div>
-		<div class="b"><abbr title="Eric，巡察员团长、不擅长说华语的香蕉人。">曾翊励</abbr></div>
-		<div class="b"><abbr title="Zeal，世界首富的二公子、忠直、自卑。">柳镇垣</abbr></div>
+		<div class="b u">曾翊励<span class="i l">Eric，巡察员团长、不擅长说华语的香蕉人。</span></div>
+		<div class="b u">柳镇垣<span class="i l">Zeal，世界首富的二公子、忠直、自卑。</span></div>
 		<div></div>
 		<div></div>
 		<div></div>
-		<div class="b"><abbr title="Kean，董事长的长子、文茨的哥哥、不服输。">姚炜铨</abbr></div>
-		<div class="b"><abbr title="普通学生、不擅长说华语的香蕉人、爱恶作剧。">戴文竭</abbr></div>
+		<div class="b u">姚炜铨<span class="i r">Kean，董事长的长子、文茨的哥哥、不服输。</span></div>
+		<div class="b u">戴文竭<span class="i r">普通学生、不擅长说华语的香蕉人、爱恶作剧。</span></div>
 	</div>
 	<div class="s"></div>
 	<div>
-		<div class="b"><abbr title="Beatrice，副班长、大喇喇。">施琬忻</abbr></div>
-		<div class="b"><abbr title="Train，普通学生、野蛮泼辣、爱打抱不平。">洪瑷心</abbr></div>
+		<div class="b u">施琬忻<span class="i l">Beatrice，副班长、大喇喇。</span></div>
+		<div class="b u">洪瑷心<span class="i l">Train，普通学生、野蛮泼辣、爱打抱不平。</span></div>
 		<div></div>
 		<div></div>
 		<div></div>
-		<div class="b"><abbr title="Max，董事长的次女、炜铨的妹妹。">姚文茨</abbr></div>
-		<div class="b"><abbr title="Tracy，班花、口是心非。">徐沛雯</abbr></div>
+		<div class="b u">姚文茨<span class="i r">Max，董事长的次女、炜铨的妹妹。</span></div>
+		<div class="b u">徐沛雯<span class="i r">Tracy，班花、口是心非。</span></div>
 	</div>
 	<div class="s"></div>
 	<div>
-		<div class="b"><abbr title="校草、霈君同父异母的哥、不擅长表达情感。">梁咏晖</abbr></div>
-		<div class="b"><abbr title="Finny，搞气氛高手、思想开放。">程荟倪</abbr></div>
-		<div class="b"><abbr title="Candy，咏晖同父异母的妹、柔中带刚。">梁霈君</abbr></div>
+		<div class="b u">梁咏晖<span class="i l">校草、霈君同父异母的哥、不擅长表达情感。</span></div>
+		<div class="b u">程荟倪<span class="i l">Finny，搞气氛高手、思想开放。</span></div>
+		<div class="b u">梁霈君<span class="i l">Candy，咏晖同父异母的妹、柔中带刚。</span></div>
 		<div></div>
-		<div class="b"><abbr title="Prince，厉风帮少爷、号称旋风少爷、口硬心软。">蒋珉衍</abbr></div>
-		<div class="b"><abbr title="Renny，优柔寡断、爱傻笑来掩饰尴尬。">萧仪靖</abbr></div>
-		<div class="b"><abbr title="Kay，图书馆管理员、活泼好动。">宋佩羚</abbr></div>
+		<div class="b u">蒋珉衍<span class="i r">Prince，厉风帮少爷、号称旋风少爷、口硬心软。</span></div>
+		<div class="b u">萧仪靖<span class="i r">Renny，优柔寡断、爱傻笑来掩饰尴尬。</span></div>
+		<div class="b u">宋佩羚<span class="i r">Kay，图书馆管理员、活泼好动。</span></div>
 	</div>
 	<div class="s"></div>
 	<div>
-		<div class="b"><abbr title="重义气、重感情、疑心重。">岳焌慷</abbr></div>
-		<div class="b"><abbr title="Miko，占有欲强、疑心重。">蓝泳菁</abbr></div>
-		<div class="b"><abbr title="Josie，优秀生、号称冰美人。">颜瑾妤</abbr></div>
+		<div class="b u">岳焌慷<span class="i l">重义气、重感情、疑心重。</span></div>
+		<div class="b u">蓝泳菁<span class="i l">Miko，占有欲强、疑心重。</span></div>
+		<div class="b u">颜瑾妤<span class="i l">Josie，优秀生、号称冰美人。</span></div>
 		<div></div>
-		<div class="b"><abbr title="表面上加入混混实际上学校卧底、号称摄云小子、转校生。">陈伟杰</abbr></div>
-		<div class="b"><abbr title="Vincent，班长、乐于助人、幽默、独立。">范勇森</abbr></div>
-		<div class="b"><abbr title="Boyven，图书馆管理员、天生褐发、仪靖的干哥。">薛佳曜</abbr></div>
+		<div class="b u">陈伟杰<span class="i r">表面上加入混混实际上学校卧底、号称摄云小子、转校生。</span></div>
+		<div class="b u">范勇森<span class="i r">Vincent，班长、乐于助人、幽默、独立。</span></div>
+		<div class="b u">薛佳曜<span class="i r">Boyven，图书馆管理员、天生褐发、仪靖的干哥。</span></div>
 	</div>
 </div>
 
