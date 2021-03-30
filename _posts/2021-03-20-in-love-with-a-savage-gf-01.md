@@ -34,6 +34,9 @@ div#in-love-with-a-savage-gf-01-seats > div > div.t {
 div#in-love-with-a-savage-gf-01-seats > div > div.u {
 	cursor: help;
 	position: relative;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
 	user-select: none;
 }
 div#in-love-with-a-savage-gf-01-seats > div > div.u:focus,

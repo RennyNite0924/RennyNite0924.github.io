@@ -815,6 +815,9 @@ blockquote {
   padding: 20px;
   overflow-x: auto;
   overflow-y: hidden;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
   user-select: none;
   margin: 30px 0; }
   .single-post .album img {
@@ -929,6 +932,9 @@ figure p {
   background-color: #000;
   overflow: hidden;
   z-index: 99;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
   user-select: none; }
 #translateLink:hover {
   cursor: pointer; }
