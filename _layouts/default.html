@@ -29,7 +29,10 @@ document.getElementById("translateLink").onclick=()=>{
 	}
 	localStorage.setItem("targetEncoding", +localStorage.getItem("targetEncoding")?0:1);
 };
-if((!window.StyleMedia)&&(typeof OpenCC!=="undefined")) {
+if((typeof ScriptEngine==="undefined")&&(typeof OpenCC==="object")) {
+	if((typeof Symbol==="function")&&(typeof Symbol.iterator==="symbol")&&(typeof NodeList.prototype[Symbol.iterator]==="undefined")) {
+		NodeList.prototype[Symbol.iterator]=[][Symbol.iterator];
+	}
 	document.getElementById("translateLink").style.display="block";
 }
 </script>
