@@ -29,7 +29,7 @@ document.getElementById("translateLink").onclick=()=>{
 	}
 	localStorage.setItem("targetEncoding", +localStorage.getItem("targetEncoding")?0:1);
 };
-if(typeof OpenCC!=="undefined") {
+if((!window.StyleMedia)&&(typeof OpenCC!=="undefined")) {
 	document.getElementById("translateLink").style.display="block";
 }
 </script>
