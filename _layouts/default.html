@@ -13,6 +13,12 @@
 
 <script src="https://cdn.jsdelivr.net/npm/opencc-js"></script>
 <script>
+if((typeof ScriptEngine==="undefined")&&(typeof OpenCC==="object")) {
+	if((typeof Symbol==="function")&&(typeof Symbol.iterator==="symbol")&&(typeof NodeList.prototype[Symbol.iterator]==="undefined")) {
+		NodeList.prototype[Symbol.iterator]=[][Symbol.iterator];
+	}
+	document.getElementById("translateLink").style.display="block";
+}
 const translateButtonTextObject=document.getElementById("translateLinkText");
 const HTMLConvertHandler=OpenCC.HTMLConverter(OpenCC.Converter({from: "cn", to: "tw"}), document.documentElement, "zh-Hans", "zh-Hant");
 if(+localStorage.getItem("targetEncoding")) {
@@ -29,11 +35,5 @@ document.getElementById("translateLink").onclick=()=>{
 	}
 	localStorage.setItem("targetEncoding", +localStorage.getItem("targetEncoding")?0:1);
 };
-if((typeof ScriptEngine==="undefined")&&(typeof OpenCC==="object")) {
-	if((typeof Symbol==="function")&&(typeof Symbol.iterator==="symbol")&&(typeof NodeList.prototype[Symbol.iterator]==="undefined")) {
-		NodeList.prototype[Symbol.iterator]=[][Symbol.iterator];
-	}
-	document.getElementById("translateLink").style.display="block";
-}
 </script>
 </html>
