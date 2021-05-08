@@ -19,6 +19,7 @@ if((typeof Symbol==="function")&&(typeof Symbol.iterator==="symbol")&&(typeof Op
 	}
 	const translateButtonTextObject=document.getElementById("translateLinkText");
 	const HTMLConvertHandler=OpenCC.HTMLConverter(OpenCC.Converter({from: "cn", to: "tw"}), document.documentElement, "zh-Hans", "zh-Hant");
+	var lang=(navigator.userLanguage||navigator.language).toLowerCase();
 	if((localStorage.getItem("targetEncoding")===null)&&(lang.startsWith("zh"))&&((lang.indexOf("-tw")!==-1)||(lang.indexOf("-hk")!==-1)||(lang.indexOf("-mo")!==-1)||(lang.indexOf("-hant")!==-1))) {
 		localStorage.setItem("targetEncoding", 1);
 	}
