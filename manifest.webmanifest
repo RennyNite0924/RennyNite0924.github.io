@@ -5,9 +5,14 @@
 	"display": "browser",
 	"icons": [
 		{
-			"src": "assets/fantasy_tree.jpg",
-			"type": "image/jpeg",
-			"sizes": "1600x1200"
+			"src": "/assets/192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "/assets/a512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
 		}
 	],
 	"lang": "zh-Hans",
