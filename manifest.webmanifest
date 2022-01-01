@@ -2,7 +2,7 @@
 	"background_color": "#fff0f5",
 	"description": "夜之谜的个人网站。",
 	"dir": "ltr",
-	"display": "browser",
+	"display": "minimal-ui",
 	"icons": [
 		{
 			"src": "/assets/192x192.png",
@@ -15,6 +15,7 @@
 			"type": "image/png"
 		}
 	],
+	"id": "/",
 	"lang": "zh-Hans",
 	"name": "夜之谜",
 	"orientation": "any",
