@@ -1,5 +1,5 @@
 {
-	"background_color": "none",
+	"background_color": "#fff0f5",
 	"description": "夜之谜的个人网站。",
 	"dir": "ltr",
 	"display": "browser",
@@ -21,5 +21,5 @@
 	"scope": "/",
 	"short_name": "夜之谜",
 	"start_url": "/",
-	"theme_color": "none"
+	"theme_color": "#fff0f5"
 }
