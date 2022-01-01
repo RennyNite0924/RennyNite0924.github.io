@@ -1,6 +1,6 @@
 const CACHE="pwabuilder-offline-page";
 
-importScripts('https://storage.googleapis.com/workbox-cdn/releases/5.1.2/workbox-sw.js');
+importScripts('https://cdn.jsdelivr.net/npm/workbox-sw');
 
 const offlineFallbackPage="offline.html";
 
