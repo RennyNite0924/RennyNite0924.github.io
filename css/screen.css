@@ -1929,9 +1929,7 @@ a.pswp__share--download:hover {
         color: orangered;
         display: inline-block;
         padding: 0 0 15px 0;
-        font-size: 80px;
-        border: solid #CCCCCC;
-        border-width: 1px 0; }
+        font-size: 80px; }
 
 /* as long as is is not fixed in the forked repo */
 .single-post .post-content iframe {

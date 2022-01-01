@@ -1,0 +1,25 @@
+---
+layout: null
+---
+{% if page.cover %}
+{% assign cover = page.cover %}
+{% elsif site.cover %}
+{% assign cover = site.cover %}
+{% endif %}
+
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body class="error-template" style="background-image: url({{ cover | prepend: site.github.url | prepend: site.baseurl}})">
+	<div class="site-wrapper">
+		<div class="error-page">
+			<div class="hgroup">
+				<h2>未缓存此页</h2>
+				<h1>首次联网访问此页时会将其缓存，此后就算离线也可以照常访问。</h1>
+			</div>
+			<p>请检查您的网络连接，然后重试。</p>
+			<h4><a href="javascript:history.go(-1)">回到上一页</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="{{ site.github.url | prepend: site.baseurl }}/">前往首页</a></h4>
+		</div>
+	</div>
+</body>
+</html>
