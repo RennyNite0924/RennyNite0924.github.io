@@ -2,7 +2,7 @@ const CACHE="pwabuilder-offline-page";
 
 importScripts('https://cdn.jsdelivr.net/npm/workbox-sw');
 
-const offlineFallbackPage="offline.html";
+const offlineFallbackPage="/offline.html";
 
 self.addEventListener("message", (event)=>{
 	if(event.data && event.data.type==="SKIP_WAITING") {
