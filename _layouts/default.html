@@ -42,7 +42,7 @@ if((typeof Symbol==="function")&&(typeof Symbol.iterator==="symbol")&&(typeof Op
 </script>
 
 <script type="module">
-import {countapi} from 'https://cdn.jsdelivr.net/npm/countapi-js';
+import {countapi} from 'https://cdn.jsdelivr.net/npm/countapi-js/index.js';
 countapi.visits().then((result)=>{
 	console.log(result.value);
 });
