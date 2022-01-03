@@ -2,6 +2,10 @@ const CACHE='pwabuilder-offline-page';
 
 importScripts('https://cdn.jsdelivr.net/npm/workbox-sw');
 
+workbox.setConfig({
+	debug: true
+});
+
 const offlineFallbackPage='/offline.html';
 
 self.addEventListener('message', (event)=>{
@@ -20,7 +24,7 @@ if(workbox.navigationPreload.isSupported()) {
 	workbox.navigationPreload.enable();
 }
 
-workbox.routing.registerRoute(/.*/, new workbox.strategies.StaleWhileRevalidate({
+workbox.routing.registerRoute(/\/*/, new workbox.strategies.StaleWhileRevalidate({
 	cacheName: CACHE
 }));
 
