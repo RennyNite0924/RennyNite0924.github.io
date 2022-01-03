@@ -45,7 +45,7 @@ if((typeof Symbol==="function")&&(typeof Symbol.iterator==="symbol")&&(typeof Op
 // cb=(r)=>{
 // 	console.log(r.value);
 // };
-console.log({% if page.title %}{{ page.name | escape }}{% endif %});
+console.log({% if page.name %}"{{ page.name | escape }}"{% else %}"index"{% endif %});
 </script>
 <!-- <script async src="https://api.countapi.xyz/hit/:HOST:/:PATHNAME:?callback=cb"></script> -->
 </html>
