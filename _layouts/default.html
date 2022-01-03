@@ -41,10 +41,10 @@ if((typeof Symbol==="function")&&(typeof Symbol.iterator==="symbol")&&(typeof Op
 }
 </script>
 
-<script type="module">
-import {countapi} from 'https://cdn.jsdelivr.net/npm/countapi-js/index.js';
-countapi.visits().then((result)=>{
-	console.log(result.value);
-});
+<script>
+cb=(r)=>{
+	console.log(r.value);
+};
 </script>
+<script async src="https://api.countapi.xyz/hit/:HOST:/:PATHNAME:?callback=cb"></script>
 </html>
