@@ -40,4 +40,11 @@ if((typeof Symbol==="function")&&(typeof Symbol.iterator==="symbol")&&(typeof Op
 	document.getElementById("translateLink").style.display="block";
 }
 </script>
+
+<script type="module">
+import countapi from 'https://cdn.jsdelivr.net/npm/countapi-js';
+countapi.visits().then((result)=>{
+	console.log(result.value);
+});
+</script>
 </html>

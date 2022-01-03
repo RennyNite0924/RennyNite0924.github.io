@@ -181,7 +181,7 @@ html {
 body {
   height: 100%;
   max-height: 100%;
-  font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;
+  font-family: 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;
   letter-spacing: 0.01rem;
   font-size: 1.8rem;
   line-height: 1.75em;
@@ -569,7 +569,6 @@ blockquote {
   .main-header .page-title {
     margin: 0 auto 15px; }
     .main-header .page-title a {
-      font-family: Mrs Saint Delafield;
       font-size: 70px;
       text-decoration: none;
       text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3); }
@@ -577,7 +576,7 @@ blockquote {
     font-size: 18px;
     font-weight: normal;
     font-style: italic;
-    font-family: 'Merriweather', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;
+    font-family: 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQuanYi Micro Hei', sans-serif;
     color: rgba(46, 46, 46, 0.8); }
 
 .nav:before,

@@ -21,14 +21,13 @@
 	{% include ogp.html %}
 	{% include twitter-meta.html %}
 
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mrs+Saint+Delafield|Merriweather:300italic,700,300,700italic|Open+Sans:400,700">
 	<link rel="stylesheet" href="{{ "/css/screen.css" | prepend: site.github.url | prepend: site.baseurl }}">
 	<link rel="stylesheet" href="{{ "/css/prism.css" | prepend: site.github.url | prepend: site.baseurl }}">
 
 	<link rel="manifest" href="{{ "/manifest.webmanifest" | prepend: site.github.url | prepend: site.baseurl }}">
 	<script type="module">
 	import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
-	const el = document.createElement('pwa-update');
+	const el=document.createElement('pwa-update');
 	document.body.appendChild(el);
 	</script>
 </head>
