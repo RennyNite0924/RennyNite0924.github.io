@@ -20,7 +20,7 @@ if(workbox.navigationPreload.isSupported()) {
 	workbox.navigationPreload.enable();
 }
 
-workbox.routing.registerRoute(/\/*/, new workbox.strategies.StaleWhileRevalidate({
+workbox.routing.registerRoute(/.*/, new workbox.strategies.StaleWhileRevalidate({
 	cacheName: CACHE
 }));
 
